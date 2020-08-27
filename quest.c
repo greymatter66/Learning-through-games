@@ -1,8 +1,8 @@
 #include<stdio.h>
 /*Game developed for CLI, It has various levels which are only released
 when max score is obtained in previous levels. The purpose of the game
-is to allow the player utilize problem solving skills and school skills
-to solve the problems. Developed by Willie Hogan 2018*/
+is to allow the player utilize problem solving skills to solve the problems. 
+greymatter66 2018*/
 
 int main(void)
 {
@@ -119,9 +119,7 @@ int main(void)
 			}
 			
 			break;
-			/* ******************************************************************************************* */
-			/* From here on is the old game for the kids, change it or change back the game to this stage.*/
-			/* ******************************************************************************************* */
+			
 			
 			//Fourth option & Question.
 			case 4: printf("You locate an enemy bunker 6mX3m, you need 1 kg of C4 per square meter to blow it. How many kg?\n");
